@@ -7,7 +7,8 @@
   <li>HTML</li>
   <li>CSS/SASS/LESS</li>
   <li>JavaScript (ES6+)</li>
-  <li>Vue.js</li>
+  <li>TypeScript</li>
+  <li>React.js</li>
   <li>Node.js</li>
 </ul>
 <br />
